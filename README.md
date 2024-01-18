@@ -7,9 +7,9 @@ Mobile Engineer using Flutter.
 -------------------------
 
 - 🌍 I currently live in Accra,Ghana.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/ Him
 - 📄 Know about me here 👉🏾 **[portfolio](https://philipwrites.codes)**
-- 🍎 I’m currently learning Swift/Swift Ui 
+- 🍎 I’m currently learning Swift/SwiftUi 
 - 🌱 Helping build **[Pharaoh](https://github.com/pharaoh-dart)**
 - 🤗 Contributing to **[Modular Ui](https://github.com/opxica/modular-ui)**
 - 🤓 Got a little bored ...doing a **[30 day Dart challenge](https://github.com/Strange-Philip/dart_challenge/tree/main)**
