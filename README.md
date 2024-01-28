@@ -6,8 +6,8 @@ My name is Philip Abakah
 Mobile Engineer using Flutter.
 -------------------------
 
-- 🌍 I currently live in Accra,Ghana.
-- 😄 Pronouns: He/ Him
+- 🌍 I currently live in Cape Coast,Ghana.
+- 😄 Pronouns: He/Him
 - 📄 Know about me here 👉🏾 **[portfolio](https://philipwrites.codes)**
 - 🍎 I’m currently learning Swift/SwiftUi 
 - 🌱 Helping build **[Pharaoh](https://github.com/pharaoh-dart)**
