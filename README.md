@@ -8,8 +8,7 @@ Mobile App Engineer.
 
 - 🌍 I currently live in Accra,Ghana.
 - 😄 Pronouns: He/ Him
-- 📄 Know about me here on my 👉🏾 **[portfolio](https://philipwrites.codes)**
-- 🍎 Currently learning Swift/SwiftUi **[My SwiftUI Playground](https://github.com/Strange-Philip/mySwiftPlayground)**
+- 🍎 Currently trying out Swift/SwiftUi
 - My **[EyeDxAi App](https://github.com/Strange-Philip/opt_app)** got in the Google Gemini Competition 🥳, please **[tap here](https://ai.google.dev/competition/projects/eyedxai-eye-diagnosis-with-ai)** to check out the project and vote for me 😊🙏🏽,Thanks...
 - 🌱 Helping build **[Pharaoh](https://github.com/pharaoh-dart)**
 - 🤗 Contributing to **[Modular Ui](https://github.com/opxica/modular-ui)**
