@@ -15,7 +15,6 @@ I later studied optometry and vision science, perception, how people interact wi
 
 So I kept building, just in a different direction.
 
----
 
 ## 
 
@@ -25,7 +24,6 @@ One of the most defining projects I’ve built is **Safe Step**, my final year t
 
 I’ve also built **EyeDxAi**, an AI-assisted diagnostic tool that combines image understanding with structured reasoning to suggest possible eye conditions and next steps. That project pushed me into thinking about how models can support real decision-making, not just predictions.
 
----
 
 ## 
 
@@ -37,7 +35,6 @@ It was the first time I saw something I worked on exist outside of me — in the
 
 That changed everything.
 
----
 
 ## ⚙️ What I Work With
 
@@ -57,15 +54,11 @@ Especially in:
 - real-time vision systems  
 - healthcare decision support  
 
----
-
-## 
 
 ## 🤝 Reach Out
 
 - Email: philipabakahmensah@gmail.com  
 
----
 
 ## 
 
