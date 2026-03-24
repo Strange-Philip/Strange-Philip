@@ -59,7 +59,7 @@ Especially in:
 
 ## 
 
-Outside of my core work, I enjoy following Formula One 🏎️ and occasionally exploring telemetry data to build small models and better understand performance dynamics. It’s a space where my interest in real-time systems, data, and decision-making naturally extends beyond healthcare into another high-performance domain.
+Outside of my core work, I enjoy following Formula One 🏎️  and occasionally exploring telemetry data to build small models and better understand performance dynamics. It’s a space where my interest in real-time systems, data, and decision-making naturally extends beyond healthcare into another high-performance domain.
 
 ## 
 
