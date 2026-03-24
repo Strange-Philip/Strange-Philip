@@ -34,18 +34,17 @@ It was the first time I saw something I worked on exist outside of me — in the
 
 That changed everything.
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
-
 ### What I Work With
 
 I primarily work with Python, Dart, and JavaScript, building systems that span from machine learning pipelines to fully deployed mobile applications. My development process is centered around frameworks like Flutter for cross-platform mobile systems and TensorFlow and YOLO for real-time computer vision tasks. I rely on tools such as Git for version control, REST APIs for system integration, and Figma to think through user experience and interface design before implementation.
 
 More broadly, my work focuses on computer vision and assistive technology, particularly in building mobile systems that go beyond prediction and function as decision-support tools. I’m especially interested in designing human-centered AI systems — systems that not only interpret data, but translate it into clear, usable actions for people in real-world environments.
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-00C853?style=for-the-badge)
+![Mobile Systems](https://img.shields.io/badge/Mobile%20Systems-FF6F00?style=for-the-badge)
+![Assistive Tech](https://img.shields.io/badge/Assistive%20Tech-6A1B9A?style=for-the-badge)
+![Human-Centered AI](https://img.shields.io/badge/Human--Centered%20AI-00897B?style=for-the-badge)
 
 ### Direction
 
