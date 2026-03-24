@@ -6,7 +6,6 @@ AI Engineer · Optometrist · Builder of Real-World Systems
 ## 
 
 I didn’t come into this from computer science in the traditional way.
-
 I started early — building mobile applications in high school , long before I formally stepped into AI. That foundation in software engineering, especially in mobile development, shaped how I think about building systems: practical, user-focused, and designed to actually be used.
 
 I later studied optometry and vision science, perception, how people interact with the world — and somewhere along the way, I started asking a different question:
@@ -36,13 +35,13 @@ It was the first time I saw something I worked on exist outside of me — in the
 That changed everything.
 
 
-# What I Work With
+### What I Work With
 
 I primarily work with Python, Dart, and JavaScript, building systems that span from machine learning pipelines to fully deployed mobile applications. My development process is centered around frameworks like Flutter for cross-platform mobile systems and TensorFlow and YOLO for real-time computer vision tasks. I rely on tools such as Git for version control, REST APIs for system integration, and Figma to think through user experience and interface design before implementation.
 
 More broadly, my work focuses on computer vision and assistive technology, particularly in building mobile systems that go beyond prediction and function as decision-support tools. I’m especially interested in designing human-centered AI systems — systems that not only interpret data, but translate it into clear, usable actions for people in real-world environments.
 
-# Direction
+### Direction
 
 I’m interested in systems that sit between:
 
