@@ -34,6 +34,12 @@ It was the first time I saw something I worked on exist outside of me — in the
 
 That changed everything.
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
 
 ### What I Work With
 
