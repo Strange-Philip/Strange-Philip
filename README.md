@@ -6,9 +6,9 @@ AI Engineer · Optometrist · Builder of Real-World Systems
 ## 
 
 I didn’t come into this from computer science in the traditional way.
-I started early — building mobile applications in high school , long before I formally stepped into AI. That foundation in software engineering, especially in mobile development, shaped how I think about building systems: practical, user-focused, and designed to actually be used.
+I started early — building mobile applications in high school, long before I formally stepped into AI. That foundation in software engineering, especially in mobile development, shaped how I think about building systems: practical, user-focused, and designed to actually be used.
 
-I later studied optometry and vision science, perception, how people interact with the world — and somewhere along the way, I started asking a different question:
+I later studied optometry 👨🏾‍⚕️ and vision science, perception, how people interact with the world — and somewhere along the way, I started asking a different question:
 
 > what if we could build systems that don’t just see… but actually *help people navigate reality*?
 
@@ -59,7 +59,7 @@ Especially in:
 
 ## 
 
-Outside of my core work, I enjoy following Formula One and occasionally exploring telemetry data to build small models and better understand performance dynamics. It’s a space where my interest in real-time systems, data, and decision-making naturally extends beyond healthcare into another high-performance domain.
+Outside of my core work, I enjoy following Formula One 🏎️ and occasionally exploring telemetry data to build small models and better understand performance dynamics. It’s a space where my interest in real-time systems, data, and decision-making naturally extends beyond healthcare into another high-performance domain.
 
 ## 
 
