@@ -1,7 +1,7 @@
 ## Philip Abakah
 [Portfolio](https://philip-abakah-portfolio.vercel.app/) 
-AI Engineer · Optometrist · Builder of Real-World Systems 
 
+AI Engineer · Optometrist · Builder of Real-World Systems 
 
 ## 
 
